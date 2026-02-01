@@ -145,10 +145,3 @@ Menariknya, baik hasil Python maupun hasil Excel manual menunjukkan **akurasi id
 Perhitungan manual menggunakan Excel dan hasil komputasi menggunakan Python menunjukkan nilai akurasi yang sama yaitu **80%**. Hal ini membuktikan implementasi model Logistic Regression satu fitur dengan optimasi Gradient Descent sudah dilakukan secara benar serta konsisten, dan perhitungan manual mampu memvalidasi hasil komputasi secara menyeluruh.
 
 ---
-
-## 🚀 Cara Menjalankan (Opsional)
-
-Jika kode Python tersedia, jalankan:
-
-```bash
-python main.py
